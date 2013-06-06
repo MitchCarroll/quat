@@ -1,4 +1,12 @@
+*~
+*#
 *.o
 *.a
-*#
-*~
+config.h
+config.log
+config.status
+Makefile
+stamp-h1
+.deps
+.deps/*
+libquat.a
